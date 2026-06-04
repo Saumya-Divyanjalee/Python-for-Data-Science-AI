@@ -1,0 +1,2 @@
+We are using the writelines() method.
+This will write multiple lines to the file.

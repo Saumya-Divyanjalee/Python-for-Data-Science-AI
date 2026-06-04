@@ -1,0 +1,10 @@
+Kamal,17
+Nimal,14
+Sunil,18
+Amara,12
+Saman,16
+Kumari,19
+Ravi,15
+Mali,13
+Nadeesha,18
+Kasun,11
